@@ -21,6 +21,7 @@
     font-size: 0.8rem;
 }
 .experiences{
+    width: 35%;
     border: 2px black solid;
 }
 .experience{
@@ -30,6 +31,7 @@
     font-size: 1rem;
 }
 .education{
+    width: 40%;
     border: 2px black solid;
     padding: 1rem;
 }
